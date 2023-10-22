@@ -6,7 +6,7 @@ tkinter for GUI.
 A reliable internet connection for speech recognition and accessing the Bible API.
 2. File Structure (OOP Approach):
 
-project_directory/
+<p>project_directory/
 │
 ├── main.py
 │
@@ -22,7 +22,7 @@ project_directory/
 └── bible_api/
     ├── __init__.py
     └── api_connector.py
-
+</p>
 
 3. Descriptions:
 
