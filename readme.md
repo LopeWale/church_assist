@@ -8,20 +8,20 @@ A reliable internet connection for speech recognition and accessing the Bible AP
 
 <p>project_directory/<br>
 │<br>
-├── main.py
-│
-├── gui/
-│   ├── __init__.py
-│   ├── main_window.py
-│   └── display_window.py
-│
-├── speech_recognition/
-│   ├── __init__.py
-│   └── recognizer.py
-│
-└── bible_api/
-    ├── __init__.py
-    └── api_connector.py
+├── main.py <br>
+│<br>
+├── gui/<br>
+│   ├── __init__.py<br>
+│   ├── main_window.py <br>
+│   └── display_window.py <br>
+│ <br>
+├── speech_recognition/ <br>
+│   ├── __init__.py <br>
+│   └── recognizer.py <br>
+│ <br>
+└── bible_api/ <br>
+    ├── __init__.py <br>
+    └── api_connector.py <br>
 </p>
 
 3. Descriptions:
