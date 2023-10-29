@@ -1,1 +1,2 @@
-
+Pygments==2.15.1
+Requests==2.31.0
